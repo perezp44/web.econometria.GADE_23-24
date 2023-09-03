@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Econometría (GADE, UV, 2023-24)"
+  favicon: imagenes/uv_favicon.ico
+  site-url: https://perezp44.github.io/web.Econometria.GADE_23-24/
+  repo-url: https://github.com/perezp44/web.Econometria.GADE_23-24
+
+  navbar:
+    logo: "imagenes/uv.jpeg"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - icon: github
+        href: https://github.com/perezp44/web.Econometria.GADE_23-24
+  page-footer:
+    left: "© Pedro J. Pérez, 2023"
+    right:
+      - icon: github
+        href: https://github.com/perezp44/web.Econometria.GADE
+format:
+  html:
+    theme: 
+     - flatly #sandstone #spacelab #cosmo
+     - custom.scss
+    css: 
+      - styles.css
+    toc: true

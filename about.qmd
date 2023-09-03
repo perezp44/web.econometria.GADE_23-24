@@ -1,0 +1,8 @@
+---
+title: ""
+---
+
+Web para facilitar el acceso y distribución de materiales para la asignatura Econometría de GADE (grupo F, curso 2023-2024). Facultad de Economía. Universitat de València.
+
+
+El repo está [aquí](https://github.com/perezp44/web.econometria.GADE_23-24)

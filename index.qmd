@@ -1,0 +1,36 @@
+---
+title: ""
+---
+
+### Materiales para Teoría
+
+-   [Slides Tema 1](./materiales/slides_tema_1.html){target="_blank"}         [Slides tema 2](./materiales/slides_tema_2.html){target="_blank"}
+
+-   [Slides tema 3](./materiales/slides_tema_3.html){target="_blank"}         [Slides tema 4](./materiales/slides_tema_4.html){target="_blank"}
+
+-   [Slides tema 5](./materiales/slides_tema_5.html){target="_blank"}          [Slides tema 6](./materiales/slides_tema_6.html){target="_blank"} 
+
+- [Slides tema 7](./materiales/slides_tema_7.html){target="_blank"}        [Ejemplos de aplicación](./materiales/ejemplos_de_aplicacion.html){target="_blank"}
+
+
+### Materiales para prácticas
+
+-   [Cuestionario](./materiales/cuestionario_practicas.html){target="_blank"}
+
+-   [Datos](./materiales/datos.zip){target="_blank"}
+
+-   [Tablas de probabilidad](./materiales/tablas_probabilidad.pdf){target="_blank"}
+
+-   [Etherpad](https://etherpad.wikimedia.org/p/curso_intro_DS_UV){target="_blank"}
+
+
+### Más cosas
+
+- [Aula Virtual](https://aulavirtual.uv.es/course/view.php?id=65089){target="_blank"} de la asignatura.
+
+- [Guía Docente](https://webges.uv.es/uvGuiaDocenteWeb/guia?APP=uvGuiaDocenteWeb&ACTION=MOSTRARGUIA.M&MODULO=35820&CURSOACAD=2024&IDIOMA=C){target="_blank"} de la asignatura.
+
+- Puedes descargarte todos los materiales en formato pdf [aquí](./materiales/materiales_econometria.zip){target="_blank"}
+
+
+
