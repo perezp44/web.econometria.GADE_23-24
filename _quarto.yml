@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - "materiales/presentacion.pdf"
 website:
   title: "Econometría (GADE, UV, 2023-24)"
   favicon: imagenes/uv_favicon.ico
